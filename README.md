@@ -10,5 +10,3 @@ Otvorte notebook a spustite všetky bunky. Priečinok data nechajte vedľa noteb
 Knižnice: pandas, numpy, matplotlib, seaborn, scipy.
 
 HTML report bol vytvorený z vykonaného notebooku.
-
-IAU_phase1_111.ipynb je pracovná kópia finálneho notebooku.
